@@ -1,4 +1,4 @@
-**Smart-Button**
+# **Smart-Button**
 
 
 Here's a refined problem statement based on your idea:
